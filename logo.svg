@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" role="img">
+<title>RedLogic.io</title>
+<desc>RedLogic.io logo — navy blue R mark with red slash, RED in red, LOGIC in dark</desc>
+
+<!-- Icon: navy square with white R and red slash -->
+<rect x="0" y="0" width="60" height="60" rx="8" fill="#002868"/>
+<text x="30" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="400" fill="#FFFFFF" text-anchor="middle">R</text>
+<line x1="36" y1="8" x2="51" y2="52" stroke="#BF0A30" stroke-width="3.5" stroke-linecap="round"/>
+
+<!-- Wordmark -->
+<text x="72" y="38" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#BF0A30" letter-spacing="-0.5">RED<tspan fill="#1a2332">LOGIC</tspan><tspan font-size="16" font-weight="400" fill="#BF0A30">.io</tspan></text>
+</svg>
